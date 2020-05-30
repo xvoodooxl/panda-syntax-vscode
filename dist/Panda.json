@@ -434,7 +434,7 @@
     {
       "scope": "entity.name.tag.js, support.class.component.js",
       "settings": {
-        "foreground": "#FF2C6D"
+        "foreground": "#19f9d8"
       }
     },
     {

@@ -1,6 +1,6 @@
+--- # -----------------------------------------------------------------------------
 # -----------------------------------------------------------------------------
 # JS
-# -----------------------------------------------------------------------------
 - scope: entity.name.type.class.js
   settings:
     foreground: _light-blue
@@ -34,9 +34,8 @@
 # -----------------------------------------------------------------------------
 - scope: entity.name.tag.js, support.class.component.js
   settings:
-    foreground: _red
+    foreground: _green
 
 - scope: variable.language.super.js
   settings:
     foreground: _blue
-
