@@ -39,3 +39,17 @@
 - scope: variable.language.super.js
   settings:
     foreground: _blue
+
+# My customizations
+
+- scope: source.js entity.other.attribute-name
+  settings:
+    fontStyle: italic
+
+- scope: source.js keyword.control
+  settings:
+    fontStyle: italic
+
+- scope: source.js storage.modifier
+  settings:
+    fontStyle: italic
